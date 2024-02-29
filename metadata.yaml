@@ -1,5 +1,5 @@
 homepage: "https://discovery.popin.cc/"
 documentation: "https://discovery.popin.cc/gtm/popup.html"
 versions:
-  - sha: 90c1d54eff56400037b08ff4cb8144b87e710083
+  - sha: 50bcc34c9c2fe7a7172dcd8df401ac86e5e59fb3
     changeNotes: Initial commit.
