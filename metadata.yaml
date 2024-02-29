@@ -1,5 +1,5 @@
 homepage: "https://discovery.popin.cc/"
-documentation: "https://www.example.com/documentation"
+documentation: "https://www.popin.cc/home/gtm/popup.html"
 versions:
   - sha: 90c1d54eff56400037b08ff4cb8144b87e710083
     changeNotes: Initial commit.
